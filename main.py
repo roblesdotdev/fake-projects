@@ -1,3 +1,4 @@
-
 if __name__ == "__main__":
-    print("Working...")
+    import uvicorn
+
+    uvicorn.run("fake_projects.app:app", reload=True)

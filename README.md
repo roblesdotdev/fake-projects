@@ -1,0 +1,3 @@
+## Fake Projects
+
+Api with fastapi...
